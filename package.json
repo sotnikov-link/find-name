@@ -1,0 +1,19 @@
+{
+  "name": "find-name",
+  "version": "1.0.0",
+  "description": "Find a free name for social networks",
+  "main": "index.js",
+  "author": "Valeriy Sotnikov <sotnikov.link@mail.ru>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "ts-node-dev src/index.ts"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^13.1.6",
+    "axios": "^0.19.1",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.4"
+  }
+}

@@ -13,7 +13,11 @@
     "@types/axios": "^0.14.0",
     "@types/node": "^13.1.6",
     "axios": "^0.19.1",
+    "micro": "^9.3.4",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.7.4"
+  },
+  "devDependencies": {
+    "@types/micro": "^7.3.3"
   }
 }
